@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts-service:
-  message: "Welcome to BMC Software accounts related local APIs "
+  message: "Welcome to BMC Software Accounts related Development APIs"
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@BMC Software.com"
+    name: "Doron Cohen - Quality Automation Engineer III"
+    email: "doron_cohen@bmc.com"
   onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
+    - "7876542262"
+    - "9970547511"

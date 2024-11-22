@@ -1,0 +1,11 @@
+build:
+    version: "2.0"
+
+loans-service:
+  message: "Welcome to BMC Software loans related QA APIs"
+  contactDetails:
+    name: "Leslie Currens - Lead Product Developer"
+    email: "leslie_Currens@bmc.com"
+  onCallSupport:
+    - "7876543263"
+    - "9970544514"

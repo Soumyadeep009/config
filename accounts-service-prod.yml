@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts-service:
-  message: "Welcome to BMC Software accounts related prod APIs "
+  message: "Welcome to BMC Software Accounts related Prod APIs"
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@BMC Software.com"
+    name: "Soumyadeep Biswas - Product Developer III"
+    email: "soumyadeep_biswas@bmc.com"
   onCallSupport:
-    - (453) 392-4829
-    - (236) 203-0384
+    - "7890542261"
+    - "9371147511"

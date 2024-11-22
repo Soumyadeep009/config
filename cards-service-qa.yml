@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards-service:
+  message: "Welcome to BMC Software Cards related QA APIs"
+  contactDetails:
+    name: "Tafat Barel - Product Developer III"
+    email: "Tafat_Barel@bmc.com"
+  onCallSupport:
+    - "7870542262"
+    - "9970047511"

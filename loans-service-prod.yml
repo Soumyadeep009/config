@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans-service:
+  message: "Welcome to BMC Software loans related prod APIs"
+  contactDetails:
+    name: "Harel Yakov - Principal Product Developer"
+    email: "harel_yakov@bmc.com"
+  onCallSupport:
+    - "7876543263"
+    - "9970544514"

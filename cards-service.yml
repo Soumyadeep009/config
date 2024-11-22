@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards-service:
+  message: "Welcome to BMC Software Cards related Development APIs"
+  contactDetails:
+    name: "Soumyajit Saha - Associate Product Developer"
+    email: "Soumyajit_Saha@bmc.com"
+  onCallSupport:
+    - "7876542262"
+    - "9970547511"

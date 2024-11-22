@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 accounts-service:
-  message: "Welcome to BMC Software accounts related QA APIs "
+  message: "Welcome to BMC Software Accounts related QA APIs"
   contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@BMC Software.com"
+    name: "Ehab Dabous - Product Developer III"
+    email: "Ehab_Dabous@bmc.com"
   onCallSupport:
-    - (666) 265-3765
-    - (666) 734-8371
+    - "7870582262"
+    - "9270047511"
