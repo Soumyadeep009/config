@@ -9,3 +9,9 @@ accounts-service:
   onCallSupport:
     - "6780592017"
     - "9371147511"
+
+eureka:
+  instance:
+    metadataMap:
+      serviceGroup: "AMI-Platform-Data-Service"
+      serviceGroupShortName: "DataService"
